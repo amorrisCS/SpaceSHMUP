@@ -1,7 +1,6 @@
 # Space Shmup
 **Author:** Austin Morris  
 **Course:** CS382 – Game Design, Development, and Technology  
-**Project:** 3
 ---
 
 ## Overview
