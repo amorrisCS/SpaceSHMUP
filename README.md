@@ -1,6 +1,6 @@
 # Space Shmup
-**Author:** Austin Morris
-**Student ID:** 800737964
+**Author:** Austin Morris__
+**Student ID:** 800737964__
 **Course:** CS382 – Game Design, Development, and Technology
 **Project:** Project 3
 
