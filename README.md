@@ -16,7 +16,7 @@ A space shooter (shoot 'em up) game built in Unity following the Space SHMUP tut
 - **Move:** Arrow keys or WASD
 - **Shoot:** Spacebar
 - Destroy enemies to earn points
-- Collect power-ups dropped by enemies to upgrade your weapon or restore shields
+- Collect power-ups dropped by enemies to upgrade your weapon or restore shields (may not be working)
 - The game restarts automatically if your ship is destroyed
 
 ---
