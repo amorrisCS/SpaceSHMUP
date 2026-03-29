@@ -35,7 +35,5 @@ A space shooter (shoot 'em up) game built in Unity following the Space SHMUP tut
 A scoring system was implemented as the "make it cooler" enhancement:
 
 - **Live Score Display:** The score is shown on screen and updates in real time as enemies are destroyed. Each enemy type has its own point value.
-- **Persistent High Score:** The best score is tracked across sessions using Unity's `PlayerPrefs`, so the high score survives game restarts.
-- **HUD Display:** The UI shows both the current score and the all-time best score simultaneously during play.
 
 Relevant scripts: `ScoreCounter.cs`, `Enemy.cs`
